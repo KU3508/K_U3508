@@ -1,4 +1,4 @@
-SPL01, FIFA+, W-Sport, Trace Sport Stars, Kartoon Channel!, TG Junior, Action Hollywood Movies, Now 80s, Now 70s and Now Rock are not available due to tokenised links.
+If a channel is not listed here, it's because the stream link is tokenised.
 
 Channel 5
 https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
