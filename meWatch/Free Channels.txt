@@ -1,5 +1,8 @@
 If a channel is not listed here, it's because the stream link is tokenised.
 
+Action Hollywood Movies
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-acthlywood-dash.mpd
+
 Channel 5
 https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
 9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
@@ -16,9 +19,15 @@ CNA
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 4ee336861eed4840a555788dc54aea6e:5640220b78729773fbeaabc19a502b50
 
+FIFA+
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-fifaplus-dash01.mpd
+
 Global Citizen
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+
+Kartoon Channel!
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-kartoon-dash.mpd
 
 LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -27,14 +36,35 @@ LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 
+NOW 80s
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-ltg-now80s-dash01-cmpt.mpd
+
+NOW 70s
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-ltg-now70s-dash-cmpt.mpd
+
+NOW Rock
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-ltg-nowrock-dash01-cmpt.mpd
+
 oktolidays (opreational during school holidays only)
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+
+SPL01
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,mlive3-dash.mpd
 
 Suria
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 
+TJ Junior
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-tgjunior-dash.mpd
+
+TRACE Sport Stars
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,fast-tracesportstar-dash.mpd
+
 Vasantham
 https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
 fcdb0c21368d4c6aa8f4c08e4cd44256:31b348d059593c81f8eb7a8f5f999a76
+
+W-Sport
+https://csm-e-mediacorp-eb.tls1.yospace.com/csm/extlive/mediacorpprd01,wsport-dash.mpd
