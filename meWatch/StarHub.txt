@@ -1,1 +1,5 @@
 If a channel is not listed here, it's because the stream link is tokenised.
+
+TVB Jade
+https://ucdn.starhubgo.com/bpk-tv/TVBJadeHD/output/manifest.mpd
+c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
